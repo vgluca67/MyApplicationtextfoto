@@ -1,0 +1,1 @@
+GNU General Public License (GPL): This license requires that any derivative work also be open source and distributed under the same license. It’s ideal if you want to ensure that improvements to your project remain open source.
